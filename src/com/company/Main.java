@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("hello world ! from github.com..");
-        System.out.print("Asmita shrestha !git");
+        System.out.print("Asmita shrestha is a good girl");
         //System.out.println("Java Automation\n");
 
         /*
